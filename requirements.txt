@@ -1,0 +1,7 @@
+matplotlib
+numpy 
+pandas 
+nltk
+beautifulsoup4
+lxml
+scikit-learn
