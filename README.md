@@ -58,6 +58,8 @@ Any other interesting analysis.
 # 📊 Results:
 1. 
 
+<img width="906" height="676" alt="Screenshot 2025-08-25 225745" src="https://github.com/user-attachments/assets/5937b090-a132-46d6-b684-7c8a26399884" />
+
 -------------------BOW---------------------Multinomial Naive Bayes---------------------------
 Training accuracy:0.9415968758311125
 Testing accuracy:0.941560318332621
@@ -89,6 +91,7 @@ weighted avg       0.91      0.94      0.91    245655
 
 
 2. 
+<img width="882" height="663" alt="Screenshot 2025-08-25 225808" src="https://github.com/user-attachments/assets/ae6eaaf4-b5bc-43dc-86b6-ac57461c38ed" />
 
 -------------------BOW---------------------logistic regression---------------------------
 Training accuracy:0.9637499253694889
@@ -118,6 +121,8 @@ classification report :              precision    recall  f1-score   support
    macro avg       0.85      0.72      0.77    245655
 weighted avg       0.95      0.96      0.95    245655
 
+
+<img width="872" height="735" alt="Screenshot 2025-08-25 225829" src="https://github.com/user-attachments/assets/90c6a7cb-10b7-4117-b4ac-091173baca22" />
 
 
 3. -----------------word2vec---------------Random forest-------------------------
@@ -172,6 +177,7 @@ Ready for integration into a Flask/Django app or any ML pipeline
 2. Comparing feature extraction methods for NLP
 3. Model evaluation with imbalanced data
 4. Building deployment-ready ML models
+
 
 
 
