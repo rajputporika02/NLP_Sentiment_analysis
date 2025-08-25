@@ -5,35 +5,10 @@ This project focuses on sentiment classification of Amazon Kindle Store reviews 
 
 
 # About Dataset
-Context:
-A small subset of dataset of product reviews from Amazon Kindle Store category.
+<img width="1142" height="605" alt="Screenshot 2025-08-25 230834" src="https://github.com/user-attachments/assets/e8a574a6-c44f-4697-b87e-411c92a0a4b0" />
 
-Content:
-5-core dataset of product reviews from Amazon Kindle Store category from May 1996 - July 2014. Contains total of 982619 entries. Each reviewer has at least 5 reviews and each product has at least 5 reviews in this dataset.
+<img width="1009" height="377" alt="Screenshot 2025-08-25 230856" src="https://github.com/user-attachments/assets/62d5cc03-8d47-4085-b4d1-8b1d2ccba805" />
 
-Columns:
-asin - ID of the product, like B000FA64PK
-helpful - helpfulness rating of the review - example: 2/3.
-overall - rating of the product.
-reviewText - text of the review (heading).
-reviewTime - time of the review (raw).
-reviewerID - ID of the reviewer, like A3SPTOKDG7WBLN
-reviewerName - name of the reviewer.
-summary - summary of the review (description).
-unixReviewTime - unix timestamp.
-
-Acknowledgements:
-This dataset is taken from Amazon product data, Julian McAuley, UCSD website. http://jmcauley.ucsd.edu/data/amazon/
-
-License to the data files belong to them.
-
-
-Inspiration:
-Sentiment analysis on reviews.
-Understanding how people rate usefulness of a review/ What factors influence helpfulness of a review.
-Fake reviews/ outliers.
-best rated product IDs, or similarity between products based on reviews alone (not the best idea ikr).
-Any other interesting analysis.
 
 # 🔄 Preprocessing & Cleaning
 
@@ -87,6 +62,7 @@ Ready for integration into a Flask/Django app or any ML pipeline
 2. Comparing feature extraction methods for NLP
 3. Model evaluation with imbalanced data
 4. Building deployment-ready ML models
+
 
 
 
